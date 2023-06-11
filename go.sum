@@ -1,0 +1,8 @@
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 h1:OYA+5W64v3OgClL+IrOD63t4i/RW7RqrAVl9LTZ9UqQ=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
+github.com/zhangyiming748/GetAllFolder v0.0.15 h1:7ygbz2A3TXV924xS+D5JK4OEUGg5zx3xPEtQ0bsD23E=
+github.com/zhangyiming748/GetAllFolder v0.0.15/go.mod h1:KGbwfCyI+hUrTqwlBFOTGaTJHLsdKQAT2hfLId5bEpM=
+github.com/zhangyiming748/GetFileInfo v0.0.35 h1:JZlBQXKL9vkIW7ft46eUZ+wV+czZDXKwfF834qWLJ/M=
+github.com/zhangyiming748/GetFileInfo v0.0.35/go.mod h1:2/iOmJVnoB0p68lEhjc5WyFrKye6rjxIYDrsMEorLdI=
+golang.org/x/exp v0.0.0-20230519143937-03e91628a987 h1:3xJIFvzUFbu4ls0BTBYcgbCGhA63eAOEMxIHugyXJqA=
+golang.org/x/exp v0.0.0-20230519143937-03e91628a987/go.mod h1:V1LtkGg67GoY2N1AnLN78QLrzxkLyJw7RJb1gzOOz9w=
